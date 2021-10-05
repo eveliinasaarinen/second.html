@@ -2,6 +2,7 @@ body {
     text-align: center;
     color: rgb(197, 15, 121);
 }
-img {
-    size: 10px;
-  }
+img {  
+    width: 10%;  
+    height: 20;  
+    }  
