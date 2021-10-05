@@ -1,7 +1,16 @@
 body {
-    text-align: center;
     color: rgb(197, 15, 121);
 }
 body {
     background-color: #fadd3b;
   }
+  #rcorners3 {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
+  
