@@ -4,13 +4,19 @@ body {
 body {
     background-color: #fadd3b;
   }
-  #rcorners3 {
-    border-radius: 25px;
-    background: url(paper.gif);
-    background-position: left top;
-    background-repeat: repeat;
-    padding: 20px;
-    width: 200px;
-    height: 150px;
+  
+  p {
+    border: 2px solid rgb(0, 174, 255);
+    border-radius: 5px;
   }
+  
+}
+  h2 {
+    text-align: right;
+  }
+
+  p.dotted {
+      border-style: dotted;
+    }
+  
   
